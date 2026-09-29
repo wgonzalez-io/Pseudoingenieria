@@ -1,0 +1,17 @@
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\bin\Debug\net11.0\pruebaNeffer.exe
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\bin\Debug\net11.0\pruebaNeffer.deps.json
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\bin\Debug\net11.0\pruebaNeffer.runtimeconfig.json
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\bin\Debug\net11.0\pruebaNeffer.runtimeconfig.dev.json
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\bin\Debug\net11.0\pruebaNeffer.dll
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\bin\Debug\net11.0\pruebaNeffer.pdb
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\obj\Debug\net11.0\pruebaNeffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\obj\Debug\net11.0\pruebaNeffer.AssemblyInfoInputs.cache
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\obj\Debug\net11.0\pruebaNeffer.AssemblyInfo.cs
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\obj\Debug\net11.0\pruebaNeffer.csproj.CoreCompileInputs.cache
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\obj\Debug\net11.0\pruebaNeffer.sourcelink.json
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\obj\Debug\net11.0\pruebaNeffer.dll
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\obj\Debug\net11.0\refint\pruebaNeffer.dll
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\obj\Debug\net11.0\pruebaNeffer.pdb
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\obj\Debug\net11.0\pruebaNeffer.genruntimeconfig.cache
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\obj\Debug\net11.0\ref\pruebaNeffer.dll
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\pruebaNeffer\obj\Debug\net11.0\pruebaNe.AADCDF16.Up2Date

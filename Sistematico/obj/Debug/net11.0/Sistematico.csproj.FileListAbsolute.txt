@@ -1,0 +1,17 @@
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\obj\Debug\net11.0\Sistematico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\obj\Debug\net11.0\Sistematico.AssemblyInfoInputs.cache
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\obj\Debug\net11.0\Sistematico.AssemblyInfo.cs
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\obj\Debug\net11.0\Sistematico.csproj.CoreCompileInputs.cache
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\obj\Debug\net11.0\Sistematico.sourcelink.json
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\bin\Debug\net11.0\Sistematico.exe
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\bin\Debug\net11.0\Sistematico.deps.json
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\bin\Debug\net11.0\Sistematico.runtimeconfig.json
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\bin\Debug\net11.0\Sistematico.runtimeconfig.dev.json
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\bin\Debug\net11.0\Sistematico.dll
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\bin\Debug\net11.0\Sistematico.pdb
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\obj\Debug\net11.0\Sistematico.dll
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\obj\Debug\net11.0\refint\Sistematico.dll
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\obj\Debug\net11.0\Sistematico.pdb
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\obj\Debug\net11.0\Sistematico.genruntimeconfig.cache
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\obj\Debug\net11.0\ref\Sistematico.dll
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Sistematico\obj\Debug\net11.0\Sistemat.E9B0BEA8.Up2Date

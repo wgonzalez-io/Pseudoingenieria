@@ -1,0 +1,17 @@
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\bin\Debug\net11.0\Cajero.exe
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\bin\Debug\net11.0\Cajero.deps.json
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\bin\Debug\net11.0\Cajero.runtimeconfig.json
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\bin\Debug\net11.0\Cajero.runtimeconfig.dev.json
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\bin\Debug\net11.0\Cajero.dll
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\bin\Debug\net11.0\Cajero.pdb
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\obj\Debug\net11.0\Cajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\obj\Debug\net11.0\Cajero.AssemblyInfoInputs.cache
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\obj\Debug\net11.0\Cajero.AssemblyInfo.cs
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\obj\Debug\net11.0\Cajero.csproj.CoreCompileInputs.cache
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\obj\Debug\net11.0\Cajero.sourcelink.json
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\obj\Debug\net11.0\Cajero.dll
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\obj\Debug\net11.0\refint\Cajero.dll
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\obj\Debug\net11.0\Cajero.pdb
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\obj\Debug\net11.0\Cajero.genruntimeconfig.cache
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\obj\Debug\net11.0\ref\Cajero.dll
+C:\Users\waska\OneDrive\Desktop\Programacion estructurada\C#\Cajero\obj\Debug\net11.0\Cajero.csproj.Up2Date
