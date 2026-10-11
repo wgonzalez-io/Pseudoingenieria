@@ -1,0 +1,17 @@
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\obj\Debug\net11.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\obj\Debug\net11.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\obj\Debug\net11.0\Temperatura.AssemblyInfo.cs
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\obj\Debug\net11.0\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\obj\Debug\net11.0\Temperatura.sourcelink.json
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\bin\Debug\net11.0\Temperatura.exe
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\bin\Debug\net11.0\Temperatura.deps.json
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\bin\Debug\net11.0\Temperatura.runtimeconfig.json
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\bin\Debug\net11.0\Temperatura.runtimeconfig.dev.json
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\bin\Debug\net11.0\Temperatura.dll
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\bin\Debug\net11.0\Temperatura.pdb
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\obj\Debug\net11.0\Temperatura.dll
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\obj\Debug\net11.0\refint\Temperatura.dll
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\obj\Debug\net11.0\Temperatura.pdb
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\obj\Debug\net11.0\Temperatura.genruntimeconfig.cache
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\obj\Debug\net11.0\ref\Temperatura.dll
+C:\Users\waska\OneDrive\Desktop\C#\Temperatura\obj\Debug\net11.0\Temperat.A0B65994.Up2Date
