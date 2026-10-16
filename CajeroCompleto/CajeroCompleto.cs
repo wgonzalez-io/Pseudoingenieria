@@ -60,6 +60,8 @@ static void ConsultarInfo( float saldo) //en estos metodos, no alteramos el valo
 {
     Console.WriteLine("\n------Información de la cuenta------");
     string cuenta = "15020826";
+    string nombre = "Waskart Hamilton Gonzalez Gutierrez";
+    Console.WriteLine($"Nombre del titular: {nombre}");
     Console.WriteLine($"Su número de cuenta es: {cuenta}");
     Console.WriteLine($"Su saldo disponible es: C${saldo}\n");
 }

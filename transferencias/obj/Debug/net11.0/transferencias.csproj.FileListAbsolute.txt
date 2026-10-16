@@ -1,0 +1,17 @@
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\bin\Debug\net11.0\transferencias.exe
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\bin\Debug\net11.0\transferencias.deps.json
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\bin\Debug\net11.0\transferencias.runtimeconfig.json
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\bin\Debug\net11.0\transferencias.runtimeconfig.dev.json
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\bin\Debug\net11.0\transferencias.dll
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\bin\Debug\net11.0\transferencias.pdb
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\obj\Debug\net11.0\transferencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\obj\Debug\net11.0\transferencias.AssemblyInfoInputs.cache
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\obj\Debug\net11.0\transferencias.AssemblyInfo.cs
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\obj\Debug\net11.0\transferencias.csproj.CoreCompileInputs.cache
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\obj\Debug\net11.0\transferencias.sourcelink.json
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\obj\Debug\net11.0\transferencias.dll
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\obj\Debug\net11.0\refint\transferencias.dll
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\obj\Debug\net11.0\transferencias.pdb
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\obj\Debug\net11.0\transferencias.genruntimeconfig.cache
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\obj\Debug\net11.0\ref\transferencias.dll
+C:\Users\waska\OneDrive\Desktop\C#\transferencias\obj\Debug\net11.0\transfer.2AB17D3D.Up2Date

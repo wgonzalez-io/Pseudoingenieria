@@ -1,0 +1,17 @@
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\obj\Debug\net11.0\ArraysBi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\obj\Debug\net11.0\ArraysBi.AssemblyInfoInputs.cache
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\obj\Debug\net11.0\ArraysBi.AssemblyInfo.cs
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\obj\Debug\net11.0\ArraysBi.csproj.CoreCompileInputs.cache
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\obj\Debug\net11.0\ArraysBi.sourcelink.json
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\bin\Debug\net11.0\ArraysBi.exe
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\bin\Debug\net11.0\ArraysBi.deps.json
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\bin\Debug\net11.0\ArraysBi.runtimeconfig.json
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\bin\Debug\net11.0\ArraysBi.runtimeconfig.dev.json
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\bin\Debug\net11.0\ArraysBi.dll
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\bin\Debug\net11.0\ArraysBi.pdb
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\obj\Debug\net11.0\ArraysBi.dll
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\obj\Debug\net11.0\refint\ArraysBi.dll
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\obj\Debug\net11.0\ArraysBi.pdb
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\obj\Debug\net11.0\ArraysBi.genruntimeconfig.cache
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\obj\Debug\net11.0\ref\ArraysBi.dll
+C:\Users\waska\OneDrive\Desktop\C#\ArraysBi\obj\Debug\net11.0\ArraysBi.csproj.Up2Date
