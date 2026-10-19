@@ -1,0 +1,17 @@
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\bin\Debug\net11.0\Bodega.exe
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\bin\Debug\net11.0\Bodega.deps.json
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\bin\Debug\net11.0\Bodega.runtimeconfig.json
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\bin\Debug\net11.0\Bodega.runtimeconfig.dev.json
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\bin\Debug\net11.0\Bodega.dll
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\bin\Debug\net11.0\Bodega.pdb
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\obj\Debug\net11.0\Bodega.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\obj\Debug\net11.0\Bodega.AssemblyInfoInputs.cache
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\obj\Debug\net11.0\Bodega.AssemblyInfo.cs
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\obj\Debug\net11.0\Bodega.csproj.CoreCompileInputs.cache
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\obj\Debug\net11.0\Bodega.sourcelink.json
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\obj\Debug\net11.0\Bodega.dll
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\obj\Debug\net11.0\refint\Bodega.dll
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\obj\Debug\net11.0\Bodega.pdb
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\obj\Debug\net11.0\Bodega.genruntimeconfig.cache
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\obj\Debug\net11.0\ref\Bodega.dll
+C:\Users\waska\OneDrive\Desktop\C#\Bodega\obj\Debug\net11.0\Bodega.csproj.Up2Date
