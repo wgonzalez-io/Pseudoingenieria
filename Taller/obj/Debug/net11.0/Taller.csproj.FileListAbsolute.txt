@@ -1,0 +1,17 @@
+C:\Users\waska\OneDrive\Desktop\C#\Taller\bin\Debug\net11.0\Taller.exe
+C:\Users\waska\OneDrive\Desktop\C#\Taller\bin\Debug\net11.0\Taller.deps.json
+C:\Users\waska\OneDrive\Desktop\C#\Taller\bin\Debug\net11.0\Taller.runtimeconfig.json
+C:\Users\waska\OneDrive\Desktop\C#\Taller\bin\Debug\net11.0\Taller.runtimeconfig.dev.json
+C:\Users\waska\OneDrive\Desktop\C#\Taller\bin\Debug\net11.0\Taller.dll
+C:\Users\waska\OneDrive\Desktop\C#\Taller\bin\Debug\net11.0\Taller.pdb
+C:\Users\waska\OneDrive\Desktop\C#\Taller\obj\Debug\net11.0\Taller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waska\OneDrive\Desktop\C#\Taller\obj\Debug\net11.0\Taller.AssemblyInfoInputs.cache
+C:\Users\waska\OneDrive\Desktop\C#\Taller\obj\Debug\net11.0\Taller.AssemblyInfo.cs
+C:\Users\waska\OneDrive\Desktop\C#\Taller\obj\Debug\net11.0\Taller.csproj.CoreCompileInputs.cache
+C:\Users\waska\OneDrive\Desktop\C#\Taller\obj\Debug\net11.0\Taller.sourcelink.json
+C:\Users\waska\OneDrive\Desktop\C#\Taller\obj\Debug\net11.0\Taller.dll
+C:\Users\waska\OneDrive\Desktop\C#\Taller\obj\Debug\net11.0\refint\Taller.dll
+C:\Users\waska\OneDrive\Desktop\C#\Taller\obj\Debug\net11.0\Taller.pdb
+C:\Users\waska\OneDrive\Desktop\C#\Taller\obj\Debug\net11.0\Taller.genruntimeconfig.cache
+C:\Users\waska\OneDrive\Desktop\C#\Taller\obj\Debug\net11.0\ref\Taller.dll
+C:\Users\waska\OneDrive\Desktop\C#\Taller\obj\Debug\net11.0\Taller.csproj.Up2Date
